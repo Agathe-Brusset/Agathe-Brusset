@@ -3,8 +3,8 @@
 My name is Agathe (pronounced like _a-cat_, but with a "g" 😉), I am a product manager focused on growing and scaling developer tools. I am a fierce advocate for DevX and great API documentation. I am from France, working remotely since 2017 and usually am somewhere hot during winter 🥶
 
 ### 🤝 My communication & work  style
-I am direct and honest, and will tell you when I have doubts, concerns, or objections. Please do the same with me!
-In true product manager fashion, I love todo lists and clear objectives... They motivate me daily!
+- I am direct and honest, and will tell you when I have doubts, concerns, or objections. Please do the same with me!
+- In true product manager fashion, I love todo lists and clear objectives... They motivate me daily!
 
 ### 📫 Let's connect!
 Email me at agathe.brusset (at) gmail.com, contact me on [LinkedIn](https://www.linkedin.com/in/agathebrusset) or write me a message on my [website](https://agathe-brusset.com/contact)! I love to chat about product management best practices, pricing strategies or feature improvements.

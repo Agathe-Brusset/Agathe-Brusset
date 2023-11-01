@@ -13,6 +13,6 @@ Email me at agathe.brusset (at) gmail.com, contact me on [LinkedIn](https://www.
 I traveled to 30+ countries and lived in 5 different countries across three continents. I'm also a certified yoga teacher and krav-maga and muay thai enthusiast.
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Agathe-Brusset&hide_border=true&mode=weekly)](https://git.io/streak-stats) 
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Agathe-Brusset&hide_border=true&mode=weekly)
  
 

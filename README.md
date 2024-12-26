@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Agathe (pronounced like _a-cat_, but with a "g" 😉); I am a product manager focused on growing and scaling developer tools. I am a fierce advocate for DevX and great API documentation. I am from France, working remotely since 2017 and usually somewhere hot during winter 🥶
+My name is Agathe (pronounced like _a-cat_, but with a "g" 😉); I am a product leader focused on growing and scaling developer tools. I am a fierce advocate for DevX and great API documentation. I am from France, working remotely since 2017 and usually somewhere hot during winter 🥶
 
 ### 🤝 My communication & work  style
 - I am direct and honest and will tell you when I have doubts, concerns, or objections. Please do the same with me!
